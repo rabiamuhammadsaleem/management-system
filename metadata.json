@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "A comprehensive full-stack Employee Management System with JWT authentication and complete CRUD operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
